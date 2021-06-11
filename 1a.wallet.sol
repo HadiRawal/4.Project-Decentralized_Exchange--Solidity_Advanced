@@ -1,3 +1,5 @@
+//The code is not completed yet
+
 // *** First we need to build wallet *** //
 
 pragma solidity >=0.6.0 <0.8.0; //to be compatible with openzeppelin
