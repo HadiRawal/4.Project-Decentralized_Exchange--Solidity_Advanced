@@ -1,0 +1,13 @@
+Tools and Libraries Required:
+1. Visual Sutdio Code with Solidity plugin (juanblanco.solidity)
+2. Truffle
+3. Openzeppelin Library
+
+
+The Road Map to biuld Decentralized_Exchange:
+1. creat project folder on Visual Studio Code
+2. run "npm init" command on Terminal
+3. run "truffle init" command on Terminal
+4. run "npm install @openzeppelin/contracts" on Terminal
+5. Building the Wallet in separate file (contract)
+6. 
